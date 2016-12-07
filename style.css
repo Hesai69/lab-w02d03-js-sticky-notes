@@ -1,1 +1,26 @@
-/*CSS styling goes here*/
+body {
+}
+h1, h3 {
+  text-align: center;
+}
+button {
+  margin-left: 42%;
+  float: left;
+  width: 150px;
+  height: 25px;
+}
+.button {
+  text-align: center;
+  overflow: auto;
+}
+.note {
+  float: left;
+  width: 150px;
+  height: 150px;
+  margin: 10px;
+  background: orange;
+}
+.remove {
+  margin-top: 5px;
+  margin-left: 5px;
+}
